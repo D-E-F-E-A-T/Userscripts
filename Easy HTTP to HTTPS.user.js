@@ -5,7 +5,7 @@
 // @author       Cybo1927
 // @run-at       document-start
 // @match        http://*
-// @exclude      http://192.168.254.66/
+// @exclude      http://URL/
 // @grant        none
 // ==/UserScript==
 
