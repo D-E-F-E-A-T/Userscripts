@@ -5,7 +5,7 @@
 // @description  Redirect HTTP to HTTPS
 // @author       Cybo1927
 // @run-at       document-start
-// @include http://*/*
+// @include      http://*/*
 // @grant        none
 // ==/UserScript==
 
