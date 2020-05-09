@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Easy HTTP to HTTPS
 // @version      04.24.2020
-// @homepage     https://github.com/InnoScorpio/Userscripts/raw/master/Easy%20HTTP%20to%20HTTPS.user.js
+// @homepage     https://github.com/InnoScorpio/Userscripts
 // @description  Redirect HTTP to HTTPS
-// @author       InnoScorpio
+// @author       Cybo1927
 // @run-at       document-start
 // @include      http://*/*
 // @exclude      http://vxvault.net
