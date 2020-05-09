@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Lessen Clutter
 // @version      1.2
-// @homepage     https://github.com/Cybo1927/Userscripts/
+// @homepage     https://github.com/InnoScorpio/Userscripts
 // @description  Remove common tracking <script> tags that contain ads/trackers. This makes it a little easier to look through scripts on a page that might be trackers (less clutter)
 // @author       Cybo1927
 // @run-at       document-start
