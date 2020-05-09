@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Tracking Attribute Remover
 // @version      1.0
-// @homepage     https://github.com/Cybo1927/Userscripts/
+// @homepage     https://github.com/InnoScorpio/Userscripts
 // @description  Block tracking attributes on links - this is how companies like Google track you via their analytics service even if you use a content/ad blocker to block the server
 // @author       Cybo1927
 // @run-at       document-start
